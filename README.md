@@ -12,4 +12,4 @@ CountryScan50 is built on Flask’s Python Microframework using Python, JavaScri
 
 ### Special Thanks:
 
-Special thanks to World Data Lab (https://www.worlddata.io/) for gracefully providing access to their World Population API.
+Special thanks to [World Data Lab](https://worlddata.io/) for gracefully providing access to their World Population API.
